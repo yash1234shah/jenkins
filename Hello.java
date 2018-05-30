@@ -2,7 +2,7 @@ class Hello
 {
 public static void main(String a[])
 {
-for(int i=1;i<11;i++)	
+for(int i=100;i<111;i++)	
 System.out.println(i);
 }
 }
